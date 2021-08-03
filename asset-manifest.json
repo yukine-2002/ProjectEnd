@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ProjectEnd/static/css/main.c305fa77.chunk.css",
+    "main.js": "/ProjectEnd/static/js/main.ebece448.chunk.js",
+    "main.js.map": "/ProjectEnd/static/js/main.ebece448.chunk.js.map",
+    "runtime-main.js": "/ProjectEnd/static/js/runtime-main.ac0f33f0.js",
+    "runtime-main.js.map": "/ProjectEnd/static/js/runtime-main.ac0f33f0.js.map",
+    "static/js/2.f2bf7dbd.chunk.js": "/ProjectEnd/static/js/2.f2bf7dbd.chunk.js",
+    "static/js/2.f2bf7dbd.chunk.js.map": "/ProjectEnd/static/js/2.f2bf7dbd.chunk.js.map",
+    "static/js/3.ed8d7843.chunk.js": "/ProjectEnd/static/js/3.ed8d7843.chunk.js",
+    "static/js/3.ed8d7843.chunk.js.map": "/ProjectEnd/static/js/3.ed8d7843.chunk.js.map",
+    "index.html": "/ProjectEnd/index.html",
+    "static/css/main.c305fa77.chunk.css.map": "/ProjectEnd/static/css/main.c305fa77.chunk.css.map",
+    "static/js/2.f2bf7dbd.chunk.js.LICENSE.txt": "/ProjectEnd/static/js/2.f2bf7dbd.chunk.js.LICENSE.txt",
+    "static/media/crown.svg.207ae289.svg": "/ProjectEnd/static/media/crown.svg.207ae289.svg",
+    "static/media/shopping-bag.svg.a688874f.svg": "/ProjectEnd/static/media/shopping-bag.svg.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac0f33f0.js",
+    "static/js/2.f2bf7dbd.chunk.js",
+    "static/css/main.c305fa77.chunk.css",
+    "static/js/main.ebece448.chunk.js"
+  ]
+}
